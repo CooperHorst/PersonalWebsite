@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Campus Bites Website",
+    "category": "Web",
+    "description": "A student restaurant site rebuilt with Bootstrap 5, featuring a responsive navbar, hero section, restaurant cards, and a subscribe form.",
+    "technologies": ["HTML", "CSS", "Bootstrap"]
+  },
+  {
+    "title": "Blu and The Library Wireframes",
+    "category": "Design",
+    "description": "Wireframes for a two-restaurant company website, planned around client requirements, page structure, and layout constraints.",
+    "technologies": ["Wireframing", "UX Planning"]
+  },
+  {
+    "title": "Sales Dashboard",
+    "category": "Data",
+    "description": "An interactive dashboard used to analyze sales trends by month, region, and product line.",
+    "technologies": ["JavaScript", "HTML", "CSS"]
+  },
+  {
+    "title": "Grade Calculator",
+    "category": "Programming",
+    "description": "A small tool that takes assignment scores and weights, then calculates a running course grade.",
+    "technologies": ["JavaScript", "DOM"]
+  },
+  {
+    "title": "Strategy Case Brief",
+    "category": "Business",
+    "description": "A written analysis of a company's competitive position using concepts from a strategic management course.",
+    "technologies": ["Strategic Analysis", "Research", "Writing"]
+  },
+  {
+    "title": "Personal Portfolio",
+    "category": "Web",
+    "description": "This site: a multi-page portfolio with JSON-driven projects, category filters, and a dark mode toggle.",
+    "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "JSON"]
+  }
+]
